@@ -1,0 +1,7 @@
+[Activity]
+name = Follow Me 
+activity_version = 3
+host_version = 1
+service_name = org.laptop.community.FollowMe
+icon = activity
+exec = sugar-activity activity.Activity
